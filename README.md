@@ -88,7 +88,7 @@ module "prd-app" {
 
 ## Author
 Aman Nikhare — Terraform | AWS | DevOps Enthusiast  
-Email: your.email@example.com  
+Email: creatvaman@gmail.com  
 GitHub: https://github.com/amco-f22
 
 ---
